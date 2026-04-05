@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# sachin-portfolio
-=======
 # My Portfolio Wesbite - Overview 🚀
 
 This repository contains the open source version of my porfolio website.
@@ -17,4 +14,3 @@ I have modified the gsap club plugins with the trial plugins, but with the trial
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
->>>>>>> 9e731a3 (first commit)
